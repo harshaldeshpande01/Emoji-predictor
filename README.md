@@ -10,8 +10,9 @@
 -LSTM<br>
 -EBPA
 
-**Emoji_Predictor.ipynb**   
-This python script contains the code for both the models and their predictions.
+**Emoji_Predictor_EBPA.ipynb**
+**Emoji_Predictor_LSTM.ipynb** (LSTM and RNN)
+These python scripts contains the code for both the models and their predictions.
 
 # Additional Files
 We have used the 6B 50D glove vector to build embedding matrix of words available in the glove vector.<br>
